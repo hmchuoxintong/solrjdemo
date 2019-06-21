@@ -5,6 +5,6 @@ public class TestController {
         System.out.println("哈哈哈风好buda大");
         System.out.println("测试公司环境提交");
         System.out.println("测试公司环境提交2");
-        
+        System.out.println("添加重复");
     }
 }
